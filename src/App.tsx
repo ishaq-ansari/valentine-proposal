@@ -100,7 +100,7 @@ function App() {
             <div className="space-y-6">
               <p className="text-xl text-gray-700 leading-relaxed italic">
                 "When you speak, I feel like I could listen to you forever. Your eyes memsmerize me. I am so enthralled by their beauty or intensity that I want to keep looking into them. 
-                 I want to look at you the way you needed to be looked at ~ like the whole world could crumble and I wouldn't blink. I love you and it’s getting worse."
+                 I want to look at you the way you needed to be looked at ~ like the whole world could crumble and I wouldn't blink. I love you. I love you very much and it’s getting worse."
               </p>
               <button
                 onClick={() => setStep(3)}
