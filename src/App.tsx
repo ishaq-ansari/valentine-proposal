@@ -99,7 +99,7 @@ function App() {
             <Smile className="w-20 h-20 mx-auto text-pink-500" />
             <div className="space-y-6">
               <p className="text-xl text-gray-700 leading-relaxed italic">
-                "When you speak, I feel like I could listen to you forever. Your eyes, your eyes memsmerize me. I am so enthralled by their beauty or intensity that I want to keep looking into them. 
+                "When you speak, I feel like I could listen to you forever. Your eyes memsmerize me. I am so enthralled by their beauty or intensity that I want to keep looking into them. 
                  I want to look at you the way you needed to be looked at ~ like the whole world could crumble and I wouldn't blink. I love you and it’s getting worse."
               </p>
               <button
@@ -188,7 +188,7 @@ function App() {
         {renderContent()}
       </div>
       <div className="absolute bottom-4 right-4 text-white/80 font-serif italic text-sm">
-        Created with ❤️ by Ishaq Ansari
+        Created with ❤️ by Salaar
       </div>
     </div>
   );
